@@ -1,0 +1,19 @@
+{
+  "name": "express-sendfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service_web.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "http": "0.0.0",
+    "jsonfile": "^5.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
